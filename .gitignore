@@ -1,0 +1,12 @@
+Debug/  
+Release/  
+obj/  
+.vs/
+*.mdb  
+*.ldb  
+*.sln  
+*.config
+*.sdf 
+*.suo  
+*.db
+*.ipch
